@@ -1,5 +1,11 @@
 # Optimisation des échanges de reins avec Python
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/benjaminblt/benjaminblt/main/assets/reins.jpg"
+       alt="Optimisation des échanges de reins - Python et PLNE"
+       width="100%">
+</p>
+
 ![Python](https://img.shields.io/badge/Python-Algorithmique-3776AB?logo=python&logoColor=white)
 ![PuLP](https://img.shields.io/badge/PuLP-Optimisation%20linéaire-1F4E79)
 ![CBC](https://img.shields.io/badge/CBC-Solveur%20PLNE-2E8B57)
